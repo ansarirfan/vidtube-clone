@@ -67,3 +67,11 @@ nav{
         width: 100px;
     }
 }
+
+
+/* responsive */
+@media (max-width:600px){
+    .nav-left .logo{
+        margin-right: 25px;
+    }
+}
